@@ -1,2 +1,5 @@
-Hi iam learning shell scripting 
+#!/bin/bash
+
+echo "Hello shell script"
+
 
